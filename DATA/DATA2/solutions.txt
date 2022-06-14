@@ -1,0 +1,3515 @@
+
+solution 1
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 2
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 3
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 4
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 5
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 6
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 7
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 8
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 9
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 10
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 11
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 12
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 13
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 14
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 15
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 16
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 17
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 18
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 19
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 20
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 21
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 22
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 23
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 24
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 25
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 26
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 27
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 28
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 29
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 30
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 31
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 32
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 33
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 34
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 35
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 36
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 37
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 38
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 39
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 40
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 41
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 42
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 43
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 44
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 45
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 46
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 47
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 48
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 49
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 50
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 51
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 52
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 53
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 54
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 55
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 56
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 57
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 58
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 59
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 60
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 61
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 62
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 63
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 64
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 65
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 66
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 67
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 68
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 69
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 70
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 71
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 72
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 73
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 74
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 75
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 76
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 77
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 78
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 79
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 80
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 81
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 82
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 83
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 84
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 85
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 86
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 87
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 88
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 89
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 90
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 91
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 92
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 93
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 94
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 95
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 96
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 97
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 98
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 99
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 100
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 101
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 102
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 103
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 104
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 105
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 106
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 107
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 108
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 109
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 110
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 111
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 112
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 113
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 114
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 115
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 116
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 117
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 118
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 119
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 120
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 121
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 122
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 123
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 124
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 125
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 126
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 127
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 128
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 129
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 130
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 131
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 132
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 133
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 134
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 135
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 136
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 137
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 138
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 139
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 140
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 141
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 142
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 143
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 144
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 145
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 146
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 147
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 148
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 149
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 150
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 151
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 152
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 153
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 154
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 155
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 156
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 157
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 158
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 159
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 160
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 161
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 162
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 163
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 164
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 165
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 166
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 167
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 168
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 169
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 170
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 171
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 172
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 173
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 174
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 175
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 176
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 177
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 178
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 179
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 180
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 181
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 182
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 183
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 184
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
+
+solution 185
+dept 3353 fixture 1 profit 3780 weight 42
+dept 3381 fixture 1 profit 168 weight 6
+dept 6399 fixture 1 profit 167 weight 6
+dept 3302 fixture 3 profit 572 weight 9
+dept 3366 fixture 3 profit 3475 weight 21
+dept 3369 fixture 3 profit 2107 weight 30
+dept 3330 fixture 5 profit 1314 weight 9
+dept 3364 fixture 5 profit 1465 weight 9
+dept 3368 fixture 5 profit 800 weight 18
+dept 3370 fixture 5 profit 3175 weight 24
+dept 3301 fixture 7 profit 997 weight 6
+dept 3315 fixture 7 profit 714 weight 9
+dept 3325 fixture 7 profit 875 weight 21
+dept 3352 fixture 7 profit 205 weight 3
+dept 3365 fixture 7 profit 327 weight 21
+dept 3367 fixture 9 profit 8135 weight 42
+checked profit sum 28276 weight sum 276
